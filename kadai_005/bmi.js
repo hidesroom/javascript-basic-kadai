@@ -1,6 +1,6 @@
-let userWeight = 60;
+let userWeight = 68;
 let userHeight = 1.7;
 
-let ibm = userWeight / (userHeight ** 2);
+let BMI = userWeight / (userHeight ** 2);
 
-console.log(ibm);
+console.log(BMI);
